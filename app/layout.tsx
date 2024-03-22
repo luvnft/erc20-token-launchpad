@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "ERC-20 Launchpad",
-  description: "Launch an ERC-20 token in a few minutes",
+  description: "Launch a Base Sepolia ERC-20 memecoin in a few minutes",
 };
 
 export default function RootLayout({
